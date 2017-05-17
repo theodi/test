@@ -1,0 +1,1 @@
+{"name":"test","title":"test","description":"test valid","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"The ODI","web":"http://www.example.com"}],"resources":[{"name":"test valid","mediatype":"text/csv","description":"test valid","path":"data/test-valid.csv"}]}
